@@ -1,5 +1,11 @@
 # lg-luma
 
+## 2.9.1
+
+### Patch Changes
+
+- 75d0a87: Transparent app icons get a gradient card in the logo's own hue with at least 3:1 contrast instead of near-black, and are scaled with premultiplied alpha so their edges no longer pick up a dark fringe.
+
 ## 2.9.0
 
 ### Minor Changes
